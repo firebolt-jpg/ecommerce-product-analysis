@@ -88,7 +88,7 @@ Retention показывает долю пользователей, которы
 
 ### Визуализация
 
-![Revenue](screenshots/revenue_by_day.png)
+![Revenue](screenshots/revenue_by_date.png)
 
 ---
 
